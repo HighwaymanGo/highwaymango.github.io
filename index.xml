@@ -13,7 +13,7 @@
       <pubDate>Thu, 11 Feb 2021 11:24:58 +0800</pubDate>
       
       <guid>https://highwaymango.github.io/post/my-first-post/</guid>
-      <description>新年快乐！ Hugo + Github Pages brew install hugo hugo new site HighwaymanGo cd HighwaymanGo/ hugo new post/my-first-post.md hugo server -D </description>
+      <description>新年快乐！ Hugo + Github Pages brew install hugo hugo new site HighwaymanGo cd HighwaymanGo/ git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1 hugo new post/my-first-post.md hugo server -D </description>
     </item>
     
   </channel>
